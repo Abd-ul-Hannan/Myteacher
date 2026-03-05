@@ -7,7 +7,7 @@ class AIService {
   static AIProvider provider = AIProvider.groq;
 
   // 🔴 REPLACE THIS WITH YOUR OWN API KEY
-  static String apiKey = "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";
+  static String apiKey = "Add here your Api key";
 
   // 🔴 CORRECT GROQ MODEL NAMES (choose one)
   // Available models:
